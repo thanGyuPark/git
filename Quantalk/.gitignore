@@ -1,0 +1,10 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*          # (이 줄이 문제라면 지우는 게 베스트)
+
+!app.py
+!app_origin.py
+!app_v1.py
+!app_recent.py
+!requirements.txt
+!utils/
+!assets/
